@@ -21,9 +21,10 @@
 - 🏥 Hospital Management System
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=reenal-rodrigues&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reenal-rodrigues&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reenal-rodrigues&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reenal-rodrigues&layout=compact&theme=radical)
 
 ✨ Learning never stops.
 <!--
